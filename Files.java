@@ -1,6 +1,6 @@
 import java.io.File;
 
-class Main {
+class Files {
   public static void main(String[] args) {
 
     // creates a file object
